@@ -20,8 +20,8 @@ This repository contains scripts for image preprocessing, segmentation, model tr
 
 Here’s an example of a predicted CAPTCHA result:
 
-![Predicted CAPTCHA](samples/predicted_example.png)
-![Predicted CAPTCHA](samples/predicted_example.png)
+![Predicted CAPTCHA](Figure_1.png)
+![Predicted CAPTCHA](Figure_2.png)
 
 ## Dependencies
 It’s recommended to use a **virtual environment** (venv or conda).
