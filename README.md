@@ -16,6 +16,16 @@ This repository contains scripts for image preprocessing, segmentation, model tr
 
 ---
 
+## Dataset
+
+The dataset used for this project (including train, test, segment, and mask files) can be downloaded from Google Drive:
+
+[Download Golestoon CAPTCHA Dataset](https://drive.google.com/file/d/1CeZoOJuv7XIz8Q5dxgeZhEahyp9H2hZM/view?usp=drive_link)
+
+After downloading, unzip it in the project root directory.
+
+---
+
 ## Example Output
 
 Here’s an example of a predicted CAPTCHA result:
@@ -38,6 +48,7 @@ pip install numpy opencv-python matplotlib pillow tensorflow keras scikit-learn 
 ````
 
 ---
+
 
 ## Quick Start — Run Inference
 
